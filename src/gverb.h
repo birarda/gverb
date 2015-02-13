@@ -31,7 +31,7 @@
 
 #define FDNORDER 4
 
-typedef struct {
+typedef struct ty_gverb {
   int rate;
   float inputbandwidth;
   float taillevel;
